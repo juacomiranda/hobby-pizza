@@ -1,6 +1,6 @@
 import React from "react";
-import rigoImage from "../../img/rigo-baby.jpg";
 import "../../styles/home.css";
+import imagenHome from "../../img/tomates_cherry.jpeg"
 
 export const Home = () => (
 	<div className="container-fluid p-0">
